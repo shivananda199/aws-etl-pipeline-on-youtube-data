@@ -4,7 +4,7 @@ Learn how to build ETL data pipeline in Python on YouTube data using various AWS
 
 ## Prerequisites
 Few things you need to have before starting the project:
-- Strong understanding of AWS services: EC2, IAM, Glue, Athena, S3
+- Understanding of AWS services: EC2, IAM, Glue, Lambda, Athena, S3
 - Good knowledge of SQL, shell scripting, and Python
 - Curious and energetic mind :) 
 
