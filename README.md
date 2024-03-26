@@ -9,5 +9,7 @@ Few things you need to have before starting the project:
 <br />
 
 ## Project Motivation
-
 The main motive behind the project is to understand building an end-to-end data pipeline (extract, transform, load, and visualize) using AWS services. 
+
+## Architecture Diagram
+![Data_Architecture_Diagram](https://github.com/shivananda199/aws-etl-pipeline-on-youtube-data/blob/master/Data_Architecture_Diagram.png)
